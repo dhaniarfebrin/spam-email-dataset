@@ -1,0 +1,161 @@
+{
+    "decision_function_shape": "ovr",
+    "break_ties": false,
+    "kernel": "rbf",
+    "degree": 3,
+    "gamma": "scale",
+    "coef0": 0,
+    "tol": 0.001,
+    "C": 10,
+    "nu": 0,
+    "epsilon": 0,
+    "shrinking": true,
+    "probability": false,
+    "cache_size": 200,
+    "class_weight": null,
+    "verbose": false,
+    "max_iter": -1,
+    "random_state": null,
+    "_sparse": false,
+    "n_features_in_": 5000,
+    "class_weight_": [
+        null,
+        [
+            0
+        ],
+        {
+            "0": 98
+        }
+    ],
+    "classes_": [
+        null,
+        [
+            0
+        ],
+        {
+            "0": 98
+        }
+    ],
+    "_gamma": [
+        [
+            "f8",
+            false,
+            true
+        ],
+        {
+            "0": 37,
+            "1": 21,
+            "2": 30,
+            "3": 49,
+            "4": 32,
+            "5": 70,
+            "6": 240,
+            "7": 63
+        }
+    ],
+    "support_": [
+        null,
+        [
+            0
+        ],
+        {
+            "0": 98
+        }
+    ],
+    "support_vectors_": [
+        null,
+        [
+            0
+        ],
+        {
+            "0": 98
+        }
+    ],
+    "_n_support": [
+        null,
+        [
+            0
+        ],
+        {
+            "0": 98
+        }
+    ],
+    "dual_coef_": [
+        null,
+        [
+            0
+        ],
+        {
+            "0": 98
+        }
+    ],
+    "intercept_": [
+        null,
+        [
+            0
+        ],
+        {
+            "0": 98
+        }
+    ],
+    "_probA": [
+        null,
+        [
+            0
+        ],
+        {
+            "0": 98
+        }
+    ],
+    "_probB": [
+        null,
+        [
+            0
+        ],
+        {
+            "0": 98
+        }
+    ],
+    "fit_status_": 0,
+    "_num_iter": [
+        null,
+        [
+            0
+        ],
+        {
+            "0": 98
+        }
+    ],
+    "shape_fit_": [
+        2206,
+        5000
+    ],
+    "_intercept_": [
+        null,
+        [
+            0
+        ],
+        {
+            "0": 98
+        }
+    ],
+    "_dual_coef_": [
+        null,
+        [
+            0
+        ],
+        {
+            "0": 98
+        }
+    ],
+    "n_iter_": [
+        null,
+        [
+            0
+        ],
+        {
+            "0": 98
+        }
+    ],
+    "_sklearn_version": "1.5.2"
+}
